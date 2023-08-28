@@ -34,7 +34,7 @@ const routes: RouteRecordRaw[] = [
         path: '/ecoWeb',
         name: 'ecoWeb',
         component: ecoWeb
-    }*/,
+    }*/
     {
         path: '/contact',
         name: 'contact',
