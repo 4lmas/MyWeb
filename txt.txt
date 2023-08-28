@@ -1,0 +1,7 @@
+<h1 class="navBar-tittle">Mi portafolio</h1>
+            <ul class="navBar-tittle__aboutInfo">
+<router-link to="" class="link"> Acerca de mi |</router-link>
+<router-link to="/misProyectos" class="link"> Mis proyectos |</router-link>
+<router-link to="/habilities" class="link"> Mis habilidades |</router-link>
+<router-link to="" class="link"> Mis redes sociales |</router-link>
+<router-link to="" class="link"> Contactame |</router-link>
