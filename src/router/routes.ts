@@ -7,7 +7,7 @@ import socialMedia from "../views/socialMedia.vue";
 
 //about me
 import about from "../views/about.vue";
-import ecoWeb from "../views/ecoWeb.vue"
+//import ecoWeb from "../views/ecoWeb.vue"
 
 const routes: RouteRecordRaw[] = [
     {
@@ -30,11 +30,11 @@ const routes: RouteRecordRaw[] = [
         name: 'proyectos',
         component: misProyectos
     },
-    {
+    /*{
         path: '/ecoWeb',
         name: 'ecoWeb',
         component: ecoWeb
-    },
+    }*/,
     {
         path: '/contact',
         name: 'contact',
